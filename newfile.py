@@ -1,5 +1,5 @@
 # realizar ejercicio
-# Moises Ovalles V-27726153 seccion 3
+# Moises Ovalles V-27726153 seccion 91
 # La Isla del Drama
 # Está por terminar la primera temporada del Reality Show llamado “La Isla delDrama”; razón por la cual se debe iniciar el proceso de selección de los nuevos participantes para la segunda temporada.La selección es realizada por tres jueces que emiten una puntuación entre 0.0 y 10.0, por cada candidato que realice la audición.
 #El problema es que son tantos los candidatos para la audición que la empresa productora desea que usted realice un programa que procese una lista de candidatos evaluados que contiene la siguiente información:
